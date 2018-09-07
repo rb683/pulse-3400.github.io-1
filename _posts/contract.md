@@ -2,10 +2,7 @@
 title: Team Contract
 excerpt: ECE 3400
 tags: featured
-permalink: /topics/user-guide/
-categories:
-  - topics
-  - user-guide
+permalink: /topics/contract/
 background-image: flickr-froderik.jpg
 ---
 

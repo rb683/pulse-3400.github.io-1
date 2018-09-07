@@ -9,7 +9,7 @@ categories:
 background-image: flickr-froderik.jpg
 ---
 
-# ECE 3400, Semester: Fall 2018 Team # 3
+## ECE 3400, Semester: Fall 2018 Team # 3
 ## Team Members: Rebecca Bell, Sidarth Giddu, Alexander Hatzis, Chloe Kuo
 
 ### Team Procedures
@@ -19,35 +19,47 @@ background-image: flickr-froderik.jpg
 4) *Method for setting and following meeting agendas (Who will set each agenda? When? How will team members be notified/reminded? Who will be responsible for the team following the agenda during a team meeting? What will be done to keep the team on track during a meeting?):* We will set the following meeting agendas at the end of the meeting the week before. The agenda will be in a Google Doc that is shared with all members of the team. The team leader for the week will be responsible for keeping the team on track during the meeting. If the team is not following the agenda, it is up to the discretion of the team leader on how to proceed. The team leader will be responsible for sending a reminder message a day in advance with the time and place for the meeting. 
 5) *Method of record keeping (Who will be responsible for recording & disseminating minutes? How & when will the minutes be disseminated? Where will all agendas & minutes be kept?):* We have a Google Drive folder with the agendas and meeting notes. Rebecca will be in charge of keeping minutes during the meetings. Meeting notes will be added to the website within 5 days of the meeting.
 
+
 ### Team Expectations
 #### Work Quality
 1) *Project standards (What is a realistic level of quality for team presentations, collaborative writing, individual research, preparation of drafts, peer reviews, etc.?):* A team consensus means quality work. 
+
 2) *Strategies to fulfill these standards:* We will always peer review our work. If an individual or subteam is completing a task, they will complete the task a day in advance of the due date so that the rest of the team can review the task. If there is a circumstance that prevents a team member from completing the task, they will notify the rest of the team via Facebook Messenger and the team will figure out how to proceed. 
 #### Team Participation
 1) *Strategies to ensure cooperation and equal distribution of tasks:* During each meeting, the team leader for the week will give everyone a task (or tasks) to do. We will encourage everyone to ask for help if they need to. That will encourage team members to keep working even if they feel stuck. 
+
 2) *Strategies for encouraging/including ideas from all team members (team maintenance):* We will have a brainstorming session before we begin a new task to ensure everyone’s ideas get heard.
+
 3) *Strategies for keeping on task (task maintenance):* The team leader will give strict deadlines for each task when he or she assigns the task. This task will be added to a spreadsheet in the Google Drive with a description and the due date. Team members are expected to mark the task completed in the spreadsheet when they are done. Individuals can negotiate with team leaders regarding deadlines. 
+
 4) *Preferences for leadership (informal, formal, individual, shared):* The team leader will be in charge for the week. Aside from this, individuals will be responsible for completing their tasks. 
 #### Personal Accountability
 1) *Expected individual attendance, punctuality, and participation at all team meetings:* Team members are expected to attend and be on time for all meetings. If a member is unable to attend a meeting, they are expected to notify the team in advance so that the team can figure out an alternate time to meet.
+
 2) *Expected level of responsibility for fulfilling team assignments, timelines, and deadlines:* Team members are required to complete the tasks delegated by the team leader. If a member feels overwhelmed or will not be able to complete a task online, they will contact the rest of the team to get help from everyone else. 
+
 3) *Expected level of communication with other team members:* Team members are expected to communicate with the rest of the team if they feel stuck, if they have any new ideas, and if they have completed tasks. 
+
 4) *Expected level of commitment to team decisions and tasks:* If a majority vote has been reached, every team member is required to see through the decision even if it was not the decision they voted for.
 #### Consequences for Failing to Follow Procedures and Fulfill Expectations
 1) *Describe, as a group, you would handle infractions of any of the obligations of this team contract:* Infractions will be dealt with at team meetings. The team leader will be in charge of addressing the team member who committed the infraction. If the team leader was the one who committed the infraction, another member of the team will address the issue.  
+
 2) *Describe what your team will do if the infractions continue:* The rest of the team will talk to the course staff about the infractions. They will take whatever action the course staff recommends. 
+
 
 ### Team Leadership
 Every person on the team will have to take the role as a leader. The role of the leader will be to organize meetings and make sure that everything is submitted in a timely manner. Please note here who will be responsible when:
 (Split up the time according to the number of members, below is an example for a team of 4).
+
 Week 1-4 (Start-up, Lab 1, Milestone 1): Rebecca
 Week 5-8 (Lab 2, Lab 3, Milestone 2): Sidarth
 Week 9-12 (Lab 4, Milestone 3): Alex
 Week 13-16 (Milestone 4, competition, final report): Chloe
+
 Other Notes: If the team decides there needs to be amendments to this contract, a majority vote will be required. 
 
 
-a)	I participated in formulating the standards, roles, and procedures as stated in this contract. b)	I understand that I am obligated to abide by these terms and conditions. c)	I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
+a) I participated in formulating the standards, roles, and procedures as stated in this contract. b) I understand that I am obligated to abide by these terms and conditions. c) I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
 
 **Sidarth Giddu** date 8/31/2018 | **Rebecca Bell** date 8/31/2018 | **Chloe Kuo** date 8/31/2018 | **Alex Hatzis** date 8/31/2018
 

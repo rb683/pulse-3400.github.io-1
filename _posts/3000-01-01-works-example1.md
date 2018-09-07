@@ -4,10 +4,7 @@ title: Lab 1
 excerpt: Microcontrollers
 categories: works
 background-image: works-sample.png
-tags:
-  - This
-  - That
-  - The other
+
 ---
 
 ### Objective

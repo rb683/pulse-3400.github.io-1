@@ -2,7 +2,7 @@
 priority: 0.6
 title: Lab 1
 excerpt: Microcontrollers
-categories: works
+categories: labs
 background-image: works-sample.png
 
 ---

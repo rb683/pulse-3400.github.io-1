@@ -1,19 +1,12 @@
 ---
 key: 1
 title: Labs
-permalink: /works/
+permalink: /labs/
 excerpt: Stuff we've enjoyed building
 image: pic02.jpg
 background-image: pic02.jpg
 ---
-{%
-if site.social.linkedin-square %}
-<div class="table-wrapper">
-  <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
-  <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
-  </tr></tbody></table>
-</div>{%
-endif %}
+
 {%
 if site.categories.works %}
 <div class="table-wrapper">
@@ -25,9 +18,7 @@ if site.categories.works %}
         <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
         <td>{{ work.date | date: "%b %Y" }}</td>
         <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
-        <td>
-          {% include techlist.html %}
-        </td>
+        
       </tr>{%
       endfor %}
     </tbody>

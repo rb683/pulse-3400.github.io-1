@@ -19,7 +19,7 @@ if site.categories.works %}
 <div class="table-wrapper">
   <table>
     <tbody>{%
-      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
+      include fn_groupsort_reverse.html unsorted=site.categories.labs groupby='priority' sortby='date'
 %}{%  for work in sorted_list %}
       <tr>
         <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>

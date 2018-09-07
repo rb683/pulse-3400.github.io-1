@@ -36,12 +36,12 @@ closing-para: Intelligent Physical Systems
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
-  google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  #twitter: https://twitter.com/_username_
+  #github: https://github.com/_username_
+  #linkedin-square: https://linkedin.com/in/_username_
+  #facebook-official: https://facebook.com/_username_
+  #google-plus-square: https://plus.google.com/u/0/+_username_
+  #email: /contact/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
   #youtube-square:
@@ -77,7 +77,7 @@ social:
   #amazon:
 
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Links
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
@@ -90,7 +90,7 @@ compose:
 
 # choose where to put back and next links:
 # top, bottom, both, none
-navlinks: bottom
+navlinks: none
 
 # expecting more works? mark your list as in-progress
 works_in_progress: yes

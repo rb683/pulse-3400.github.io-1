@@ -1,8 +1,7 @@
 ---
-title: User Guide
-excerpt: How to use this theme
+title: Team Contract
+excerpt:
 tags: featured
-author: arkadianriver
 permalink: /topics/user-guide/
 categories:
   - topics

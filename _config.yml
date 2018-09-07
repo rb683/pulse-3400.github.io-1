@@ -28,11 +28,11 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: The Team
+  text: 
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: ECE 3400
+closing-para: Intelligent Physical Systems
 
 # on all pages (and the first three you list display with greeting, if included)
 social:

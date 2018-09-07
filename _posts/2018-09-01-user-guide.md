@@ -13,10 +13,13 @@ background-image: flickr-froderik.jpg
 ## Team Members: Rebecca Bell, Sidarth Giddu, Alexander Hatzis, Chloe Kuo
 
 ### Team Procedures
-1) *Day, time, and place for regular team meetings: Friday 11:15 - 12:05 (during lecture) (Upson 142) , Alternate meeting time:* Tuesday after 4:30 (Upson 142). If the team determines that another meeting is necessary, the team will schedule another meeting at the previous one. If the alternate meeting time does not work, then the team will discuss another time that works for everyone. If there is a lecture scheduled and the team cannot meet for the full time on Friday, the alternate meeting time will be used.
+1) *Day, time, and place for regular team meetings: Friday 11:15 - 12:05 (during lecture) (Upson 142) , Alternate meeting time:* Tuesday after 4:30 (Upson 142). If the team determines that another meeting is necessary, the team will schedule another meeting at the previous one. If the alternate meeting time does not work, then the team will discuss another time that works for everyone. If there is a lecture scheduled and the team cannot meet for the full time on Friday, the alternate meeting time will be used.<br/>
 2) *Preferred method of communication (e.g., e-mail, cell phone, wired phone, Blackboard Discussion Board, face-to-face, in a certain class) In order to inform each other of team meetings, announcement, updates, reminders, problems:* We are using Facebook Messenger to communicate with each other. 
+
 3) *Decision-making policy (by consensus? by majority vote?):* We will make all decisions by majority vote. If a team member has a lot of knowledge on a particular subject, their vote will carry a heavier weight than the other team members. 
+
 4) *Method for setting and following meeting agendas (Who will set each agenda? When? How will team members be notified/reminded? Who will be responsible for the team following the agenda during a team meeting? What will be done to keep the team on track during a meeting?):* We will set the following meeting agendas at the end of the meeting the week before. The agenda will be in a Google Doc that is shared with all members of the team. The team leader for the week will be responsible for keeping the team on track during the meeting. If the team is not following the agenda, it is up to the discretion of the team leader on how to proceed. The team leader will be responsible for sending a reminder message a day in advance with the time and place for the meeting. 
+
 5) *Method of record keeping (Who will be responsible for recording & disseminating minutes? How & when will the minutes be disseminated? Where will all agendas & minutes be kept?):* We have a Google Drive folder with the agendas and meeting notes. Rebecca will be in charge of keeping minutes during the meetings. Meeting notes will be added to the website within 5 days of the meeting.
 
 

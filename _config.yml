@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: The Team
-  text: Cornell ECE 3400 Students
+  text: Rebecca Bell | Sidarth Giddu | Alex Hatzis | Chloe Kuo
 # - displayed at the bottom
 closing-head: ECE 3400
 closing-para: Intelligent Physical Systems
